@@ -16,4 +16,4 @@ Play in your browser, challenge a friend, and see who wins!
 
 ## 🌐 Live Demo
 
-[🔗 View Live ]((https://rajeshece1138.github.io/Tic-Tac-Toe-Game/))
+[🔗 View Live ](https://rajeshece1138.github.io/Tic-Tac-Toe-Game/)
